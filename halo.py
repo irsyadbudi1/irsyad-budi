@@ -8,3 +8,4 @@ def segitiga_bintang(n):
 # Contoh penggunaan
 tinggi = int(input("Masukkan tinggi segitiga: "))
 segitiga_bintang(tinggi)
+print("thanks")
