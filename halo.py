@@ -18,3 +18,5 @@ print("Segitiga biasa:")
 segitiga_bintang(tinggi)
 print("\nSegitiga terbalik:")
 segitiga_bintang_terbalik(tinggi)
+print("thanks")
+
